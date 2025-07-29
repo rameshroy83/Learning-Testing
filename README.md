@@ -1,2 +1,2 @@
 # Learning-Testing
-Learning&amp;Testing Repository
+This is my reposity for Learning&amp;Testing.
