@@ -4,7 +4,7 @@ import requests
 session = requests.session()
 
 ip_addr = "10.97.169.5"
-cred = {"username": "admin", "password": "HTS!ndi@"}
+cred = {"username": "admin", "password": "1234"}
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 try:
